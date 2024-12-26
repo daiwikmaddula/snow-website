@@ -1,1 +1,1 @@
-# snow-website
+# snow-websits
